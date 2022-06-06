@@ -1,0 +1,45 @@
+  Case Study 
+              Hi Folks ! Cofee Store wants to create an application that displays 
+ Home page ,A contact Page and About Us , for it's introductory website 
+The application should be fast and a navigation mechanism should be built as an SPA 
+
+
+
+  A Login page has to be added 
+  All the links should be displayed only when user has logged in 
+
+
+
+
+  #Create An Application to Display Customer Details 
+     1.There should be a home page 
+     2.A Form to accept details of customers 
+     3.A Page to view products by id 
+     4.The app should have a login page ,that validates user before navigating to main 
+  page 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
